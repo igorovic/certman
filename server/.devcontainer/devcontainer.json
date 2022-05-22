@@ -1,0 +1,10 @@
+{
+    "name": "certman-dev-dart",
+    "image": "dart:latest",
+    "extensions": [
+        "dart-code.dart-code"
+    ],
+    "forwardPorts": [
+        8080
+    ]
+}

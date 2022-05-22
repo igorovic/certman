@@ -1,0 +1,1 @@
+docker run --name certman1 -it --rm --cap-add=IPC_LOCK -v /Users/gor00/DEV/certificates-manager:/certman -w /certman certman:1 /bin/ash
